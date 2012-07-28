@@ -1,0 +1,3 @@
+[submodule "asserv"]
+	path = asserv
+	url = https://github.com/furobalex/asserv.git
